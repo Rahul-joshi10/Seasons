@@ -1,5 +1,5 @@
 import React from "react";
-import "./seasonDisplay.css";
+import "./SeasonDisplay.css";
 
 const seasonConfig = {
   summer: {
